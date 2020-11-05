@@ -7,9 +7,7 @@ import android.util.Log;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-/**
- * Created by oghenekevwe on 7/4/2017.
- */
+
 
     public class ConnectionClass {
 
